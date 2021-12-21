@@ -10,21 +10,18 @@
 
 [Double Acting Piston Pump](/pump)
 <img src="images/Front Angled.jpg?raw=true"/>
-
-
 ---
+
 [WellBot](/wellbot)
 <img src="images/wellbot.JPG?raw=true"/>
-
 ---
+
 [Cube Craze Autonomous Robot](/cubes)
 <img src="images/yas.JPG?raw=true"/>
-
 ---
+
 [Fluid Mechanical Dissesction](/fmd)
 <img src="images/fluids.JPG?raw=true"/>
-
-
 ---
 
 ### Research
