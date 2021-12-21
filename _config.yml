@@ -1,10 +1,11 @@
 title: James Ringsby # your name (or website title) here
 logo: "/images/Ringsby_Jimmy_Headshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
   Mechanical Enginneer @ Cornell 
   <br><br>
   3rd year mechanical engineering student interested in product development, sustainability, and aerospace.  
-  <br><br><br>
+  <br><br>
   <a href="https://www.linkedin.com/in/jamesringsby/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
