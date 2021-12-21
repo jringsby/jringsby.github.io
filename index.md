@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Glider Model - MAE 3050](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
