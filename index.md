@@ -5,7 +5,7 @@
 ### Academic Projects
 
 [Glider Model](/sample_page)
-<img src="images/glider.jpg?raw=true"/>
+<img src="images/glider.JPG?raw=true"/>
 ---
 
 [Double Acting Piston Pump](http://example.com/)
@@ -14,26 +14,22 @@
 
 ---
 [WellBot](/pdf/sample_presentation.pdf)
-<img src="images/wellbot.jpg?raw=true"/>
+<img src="images/wellbot.JPG?raw=true"/>
 
 ---
 [Cube Craze Autonomous Robot](http://example.com/)
-<img src="images/yas.jpg?raw=true"/>
+<img src="images/yas.JPG?raw=true"/>
 
 ---
 [Fluid Mechanical Dissesction](http://example.com/)
-<img src="images/fluids.jpg?raw=true"/>
+<img src="images/fluids.JPG?raw=true"/>
 
 
 ---
 
 ### Research
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Unsteady flame dynamics in porous media - Sobhani Lab](http://sobhanilab.com//)
 
 ---
 
