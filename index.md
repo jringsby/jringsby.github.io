@@ -24,7 +24,7 @@
 
 ---
 
-[Fluid Mechanical Dissesction](/fmd)
+[Fluid Mechanical Dissection](/fmd)
 <img src="images/fluids.JPG?raw=true"/>
 
 ---
