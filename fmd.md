@@ -2,4 +2,5 @@
 
 **Project description:** Created a five minute youtube video explaining the fluid mechanical processes involved in operating a leaf blower. Specifically focosing in on turbulent jets and momentum delivery optimization. 
 
-[Video Link]
+[Video Link](https://www.youtube.com/watch?v=gK_cc0ee8ls/)
+
