@@ -30,6 +30,7 @@
 ### Research
 
 - [Unsteady flame dynamics in porous media - Sobhani Lab](http://sobhanilab.com/)
+<img src="images/pmc.JPG?raw=true"/>
 
 ---
 
