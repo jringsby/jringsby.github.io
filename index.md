@@ -5,7 +5,7 @@
 ### Academic Projects
 
 [Glider Model](/sample_page)
-<img src="images/glider.JPG?raw=true" =250x250/>
+<img src="images/glider.JPG?raw=true"/>
 ---
 
 [Double Acting Piston Pump](http://example.com/)
