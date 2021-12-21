@@ -4,7 +4,7 @@
 
 ### Academic Projects
 
-[Glider Model](/sample_page)
+[Glider Model](/glider)
 <img src="images/glider.JPG?raw=true"/>
 ---
 
