@@ -1,23 +1,33 @@
-## Portfolio
+## My Work
 
 ---
 
-### Category Name 1 
+### Academic Projects
 
-[Glider Model - MAE 3050](/sample_page)
+[Glider Model](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+
+[Double Acting Piston Pump](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+---
+[WellBot](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Cube Craze Autonomous Robot](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Fluid Mechanical Dissesction](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
-### Category Name 2
+### Research
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
