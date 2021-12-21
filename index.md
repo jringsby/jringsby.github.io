@@ -5,24 +5,24 @@
 ### Academic Projects
 
 [Glider Model](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/glider.jpg?raw=true"/>
 ---
 
 [Double Acting Piston Pump](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Front Angled.jpg?raw=true"/>
 
 
 ---
 [WellBot](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/wellbot.jpg?raw=true"/>
 
 ---
 [Cube Craze Autonomous Robot](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/yas.jpg?raw=true"/>
 
 ---
 [Fluid Mechanical Dissesction](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/fluids.jpg?raw=true"/>
 
 
 ---
