@@ -8,20 +8,20 @@
 <img src="images/glider.JPG?raw=true"/>
 ---
 
-[Double Acting Piston Pump](http://example.com/)
+[Double Acting Piston Pump](/pump)
 <img src="images/Front Angled.jpg?raw=true"/>
 
 
 ---
-[WellBot](/pdf/sample_presentation.pdf)
+[WellBot](/wellbot)
 <img src="images/wellbot.JPG?raw=true"/>
 
 ---
-[Cube Craze Autonomous Robot](http://example.com/)
+[Cube Craze Autonomous Robot](/cubes)
 <img src="images/yas.JPG?raw=true"/>
 
 ---
-[Fluid Mechanical Dissesction](http://example.com/)
+[Fluid Mechanical Dissesction](/fmd)
 <img src="images/fluids.JPG?raw=true"/>
 
 
